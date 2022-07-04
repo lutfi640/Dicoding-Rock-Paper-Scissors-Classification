@@ -1,2 +1,2 @@
-# Dicoding Rock Paper Scissors Classification
+#Rock Paper Scissors Classification
  Submission project for dicoding introduction to machine learning
